@@ -62,12 +62,12 @@
     {
       "source": 0,
       "target": 5,
-      "value": 10
+      "value": 0.194
     },
     {
       "source": 1,
       "target": 5,
-      "value": 0
+      "value": 0.6631
     },
     {
       "source": 2,
@@ -87,7 +87,7 @@
     {
       "source": 5,
       "target": 6,
-      "value": 0
+      "value": 0.8
     },
     {
       "source": 5,
@@ -97,12 +97,12 @@
     {
       "source": 5,
       "target": 12,
-      "value": 10
+      "value": 0.102
     },
     {
       "source": 6,
       "target": 8,
-      "value": 0
+      "value": 0.496
     },
     {
       "source": 7,
@@ -132,7 +132,7 @@
     {
       "source": 6,
       "target": 11,
-      "value": 0
+      "value": 0.187
     },
     {
       "source": 7,
@@ -142,7 +142,7 @@
     {
       "source": 6,
       "target": 12,
-      "value": 0
+      "value": 0.061
     },
     {
       "source": 7,
@@ -152,12 +152,12 @@
     {
       "source": 8,
       "target": 12,
-      "value": 0
+      "value": 0.0055
     },
     {
       "source": 8,
       "target": 9,
-      "value": 0
+      "value": 0.05
     },
     {
       "source": 9,
@@ -172,17 +172,17 @@
     {
       "source": 11,
       "target": 12,
-      "value": 0
+      "value": 0.033
     },
     {
       "source": 11,
       "target": 13,
-      "value": 0
+      "value": 0.0423
     },
     {
       "source": 11,
       "target": 14,
-      "value": 0
+      "value": 0.1448
     },
     {
       "source": 11,
@@ -207,12 +207,12 @@
     {
       "source": 13,
       "target": 12,
-      "value": 0
+      "value": 0.007
     },
     {
       "source": 14,
       "target": 12,
-      "value": 0
+      "value": 0.015
     },
     {
       "source": 15,
